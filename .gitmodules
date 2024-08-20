@@ -76,7 +76,6 @@
 [submodule "vulkan-headers"]
     path = externals/vulkan-headers
     url = https://github.com/KhronosGroup/Vulkan-Headers
-	branch = sdk-1.1.130
 [submodule "sirit"]
     path = externals/sirit
     url = https://github.com/blitzingeagle/sirit
